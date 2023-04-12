@@ -1,14 +1,35 @@
 body {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
 }
+
 h1 {
     text-align: center;
     font-size: 40px;
     color: white;
 }
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    word-break: keep-all;
+}
+
+#left {
+    float: left;
+    width: 25%;
+}
+
+#right {
+    float: right;
+    width: 75%;
+}
+
+
 .linkbutton {
     font-size: 20px;
     color: white;
+    text-decoration: none;
 }
 .linkbutton:hover {
     color: yellow;

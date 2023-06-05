@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>[Beta] Fiction | HYC</title>
+  <script>
+    function checkPassword() {
+      var password = document.getElementById("password").value;
+      if (password === "fiction") {
+        document.getElementById("content").style.display = "block";
+      } else {
+        document.getElementById("content").style.display = "none";
+        alert("密語錯誤");
+      }
+    }
+  </script>
+  <style>
+    .chapter {
+        font-size: 30px;
+        font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+    <h1 style="text-align: center; font-size: 10vh;">請輸入密語</h1>
+    <div style="display: flex; justify-content: center; width: 100%; height: 10vh;">
+        <input id="password" style="width: 30%; margin-right: 3%; padding: 3%; border: none; border-bottom: 3px solid black; outline: none; font-size: 2em">
+        <button onclick="checkPassword()" style="width: 10%; background-color: white; border: 3px soild black; font-size: 1em;">檢查</button>
+    </div>
+    <br>
+    <div id="content" style="display: none;">
+        <div class="chapter">Chapter 1、開端</div>
+        <p>「去哪裡！」一聲吼叫傳來，把我從呆楞拉回現實。</p>
+        <p>「你說你午休去哪裡？」</p>
+        <p>回過神，現在是上課時間，原來是因為這節課是你最不拿手的英文科，所以從鐘聲一響就開始進入超渡模式了。</p>
+        <p>現在最重要的事是趕快回答。頭腦還沒有反應過來為何他要詢問這件事，你將你午休的位置說出，「圖書館。」</p>
+        <p>「去圖書館幹嘛？你很忙嘛！全世界就你最忙！」講台上的人持續獅吼著，在沈睡中的同學也無不被這幾句的吼聲驚醒。</p>
+        <p>接收了這麼多的問句，腦袋一時無所適從。他不給你反駁的機會，持續輸出著訓話的內容。</p>
+        <p>「出事找誰？出事我找誰？出事你媽找誰？」</p>
+        <p>「找誰？找我嗎？找你嗎？」帶著憤怒的口吻，他持續拋出問題。</p>
+        <p>自小的教育告訴我們，當大人在發怒時最好不要多做解釋，否則只會火上加油，對自己絕無好處。</p>
+        <p>你是一所公立高中的學生，同時是該校的自治會幹部，為了你的興趣，你也成立了你所愛的格鬥社。每日在課業、自治會、社團和其他個人事務中輪徊，雖然很疲憊，但你都樂在這充實的高中生活中。</p>
+
+        <div class="chapter">Chapter 2、待續</div>
+        <p stlye="color: red;">敬請期待...</p>
+    </div>
+</body>
+</html>

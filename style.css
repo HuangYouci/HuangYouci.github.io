@@ -49,12 +49,13 @@ body {
 @media (orientation: landscape) {
     #homeBack {
         background-image: url('./files/background.png');
-        height: 100vh;
+        height: 96vh;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
     #homeBack h1 {
+        height: 12vh;
         font-size: 10vh;
     }
     #homeBack h2 {
@@ -67,12 +68,13 @@ body {
 @media (orientation: portrait) {
     #homeBack {
         background-image: url('./files/background.png');
-        height: 100vh;
+        height: 96vh;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
     #homeBack h1 {
+        height: 120px;
         font-size: 100px;
     }
     #homeBack h2 {
@@ -143,4 +145,12 @@ body {
     .hintPhone{
         display: block;
     }
+}
+
+/* Description */
+
+h2.introduce {
+    font-size: 30px;
+    color: white;
+    margin: 0;
 }

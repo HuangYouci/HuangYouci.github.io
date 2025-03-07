@@ -1,1 +1,1 @@
-title:版本公告 Version Announcement;message:目前最新版本為 v1.1，由於有眾多新功能加入，敬請回報未發現的 Bug 於開發者信箱 huangyouci@icloud.com | Newest Version is v1.1, because there is lots of new features, please report any bugs at developer's email: huangyouci@icloud.com
+title:公告 Announcement;message:目前最新版本為 v1.1，由於有眾多新功能加入，敬請回報未發現的 Bug 於開發者信箱 ycdev@icloud.com | Newest Version is v1.1, because there is lots of new features, please report any bugs at developer's email: ycdev@icloud.com

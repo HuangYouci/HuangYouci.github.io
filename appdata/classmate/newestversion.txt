@@ -1,3 +1,3 @@
-newest:1.1
-recommend:1.1
-new:新功能測試
+newest:1.2
+recommend:1.2
+new:新功能

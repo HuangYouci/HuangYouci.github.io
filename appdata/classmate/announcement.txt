@@ -1,3 +1,1 @@
-title:公告 Announcement;message:新版本 v1.3 已發送，建議所有用戶更新，請至 App Store 安裝新版本。若有疑問，請來信 ycdev@icloud.com。 | The new version v1.3 has been released. We recommend all users update to the latest version. Please visit the App Store to install the update. If you have any questions, feel free to contact us at ycdev@icloud.com.
-title:版本更新通知 Announcement;message:請使用 v1.2 版本以下的用戶儘速更新至最新版本，舊版本將在未來停止支援，屆時可能無法完整遷移資料。 | Users running version v1.2 or earlier are strongly advised to update to the latest version as soon as possible. Older versions will no longer be supported in the future, and data migration may not be fully available at that time.
-title:重要錯誤修復 Critical;message:v1.2 版本無法編輯課程的重要錯誤已修復，請使用者更新至 v1.3 版本，造成不便，敬請見諒。| The important error of being unable to edit courses in version v1.2 has been fixed. Users are requested to update to version v1.3. We apologize for the inconvenience.
+title:本應用程式未來將進行更新;message:未來程式將進行大規模重構，建議備份學期資料以免更新後資料遺失。
